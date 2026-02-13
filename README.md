@@ -26,10 +26,8 @@
 ![screenshot](Images/ScreenShot.png)
 
 ## Key Features
-Search the Internet with your choice of five search sites. Based on original code by JSMorley.
 
 ## How to use
-Install and activate the app.  Left click, choose search provider.  Select inputbox and type search.
 
 ## Download
 [Droptop Four Community Apps](https://droptopfour.com/community-apps/)
